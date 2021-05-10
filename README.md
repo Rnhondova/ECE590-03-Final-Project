@@ -3,11 +3,11 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#data-sources">Data sources</a> •
-  <a href="#sample images">Sample images</a> •
-  <a href="#image distribution">Image Distribution</a> •
+  <a href="#sample-images">Sample images</a> •
+  <a href="#image-distribution">Image Distribution</a> •
   <a href="#training">Training</a> •
   <a href="#results">Results</a> •
-  <a href="#work in progress">Work in progress</a> •  
+  <a href="#work-in-progress">Work in progress</a> •  
 </p>
 
 ## About
