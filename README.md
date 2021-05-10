@@ -1,8 +1,8 @@
-<h2 align="center">Impact of transfer learning techniques in identifying the type of damage on an image for car insurance claims.</h2>
+<h1 align="center">Impact of transfer learning techniques in identifying the type of damage on an image for car insurance claims.</h1>
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#data sources">Data sources</a> •
+  <a href="#data-sources">Data sources</a> •
   <a href="#sample images">Sample images</a> •
   <a href="#image distribution">Image Distribution</a> •
   <a href="#training">Training</a> •
