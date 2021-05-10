@@ -25,19 +25,20 @@ Original dataset with car damage images has 1500 images. This is distributed ove
 The sample images below show a bumper dent, door dent, headlamp damage, multi-area damage and no damage respectively.
 
 <p float="left">
-<img src="Images/bumper_dent.png" width="200" height="200">
-<img src="Images/door_dent.png" width="200" height="200">
-<img src="Images/headlamp.png" width="200" height="200">
-<img src="Images/multi_area_damage.png" width="200" height="200">
-<img src="Images/no_damage.png" width="200" height="200">
+<img src="Images/bumper_dent.png" width="175" height="175">
+<img src="Images/door_dent.png" width="175" height="175">
+<img src="Images/headlamp.png" width="175" height="175">
+<img src="Images/multi_area_damage.png" width="175" height="175">
+<img src="Images/no_damage.png" width="175" height="175">
 </p>
 
 ## Image Distribution
 
 The following plots show the distribution of the images in the training and test sets.
-
+<p float="left">
 <img src="Images/trainset_barplot.png" width="450" height="400">
 <img src="Images/test_set_barplot.png" width="450" height="400">
+</p>
 
 ## Training
 
@@ -46,11 +47,11 @@ The training of the models was done on Google colab, hence the training pipeline
 ## Results
 
 Highlights of some of the model comparison results are shown below.
-
+<p float="left">
 <img src="Images/different_configuration_perf_without_std.png" width="400" height="400">
 <img src="Images/impact_of_learning_rate_and_optimizer_table.png" width="400" height="400">
 <img src="Images/optimzer_and_lr_box_plot_big.png" width="450" height="400">
-
+</p>
 
 The chosen model performance on test set is shown in the confusion matrix below.
 
